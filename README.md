@@ -1,2 +1,45 @@
-# 7e688f2c-roofing-gutters-review-monit
-Aggregate reviews from all platforms, sentiment scoring, and response templates. Protect reputation with instant review awareness.
+# Roofing & Gutters Review Monitoring and Response Automation N8N Workflow
+
+> Workflow for Roofing
+
+Professional roofing n8n automation workflow — without the professional price tag.
+
+Import the JSON, set your credentials, click activate. Running in minutes. Built for production: error handling, retry logic, and failure notifications included.
+
+## What's Included
+
+- Roofing & Gutters Review Monitoring And Response Automation — fully...
+
+## Features
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic triggers | ✅ | ✅ |
+| Standard nodes | ✅ | ✅ |
+| Manual execution | ✅ | ✅ |
+| Advanced triggers | ❌ | ✅ |
+| Custom nodes | ❌ | ✅ |
+| Scheduled execution | ❌ | ✅ |
+| Error handling | ❌ | ✅ |
+| Webhook integrations | ❌ | ✅ |
+
+## Get the Full Version
+
+Upgrade to the Pro version for **$34.99** and unlock all premium features.
+
+**[Buy Now (Stripe)](https://buy.stripe.com/6oU6oH6mXf6Q1degUccZf2k)** — Secure checkout
+
+## Installation
+
+1. Download the latest release from the [Releases page](../../releases)
+2. Extract and follow the setup instructions in the included documentation
+3. For Pro features, enter your license key after purchase
+
+## Support
+
+- Open an [issue](../../issues) for bug reports
+
+## License
+
+Free tier: MIT License for personal and commercial use.
+Pro tier: Commercial license included with purchase.
